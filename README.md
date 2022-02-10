@@ -12,4 +12,4 @@ A project demonstrating how everyone can save with Moneybox.
 
 - Unit Testing
 - MVVM Architecture
-- Persistent Storage
+
